@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 About Me</h2>
 <p>
-  Hey there! I'm <strong>Basit</strong>, a <strong>Full-Stack Developer</strong> with a strong focus on backend development — passionate about building efficient, secure, and scalable web applications.
+  Hey there! I'm <strong>Basit</strong>, a <strong>self-taught Full-Stack Developer</strong> with a strong focus on backend development — passionate about building efficient, secure, and scalable web applications.
 </p>
 <p>
   💻 I love turning ideas into functional products — from crafting clean APIs with <strong>Node.js & Express</strong> to integrating modern frontend experiences using <strong>React</strong>.
