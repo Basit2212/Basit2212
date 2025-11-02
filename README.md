@@ -1,33 +1,43 @@
-Hi there, I'm Basit Khan 👋
+<h1 align="center">Hi there, I'm Basit Khan 👋</h1>
 
-👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
+<p>
+  Hey there! I'm <strong>Basit</strong>, a <strong>Full-Stack Developer</strong> with a strong focus on backend development — passionate about building efficient, secure, and scalable web applications.
+</p>
+<p>
+  💻 I love turning ideas into functional products — from crafting clean APIs with <strong>Node.js & Express</strong> to integrating modern frontend experiences using <strong>React</strong>.
+</p>
 
-Hey there! I'm Basit, a Full-Stack Developer with a strong focus on backend development — passionate about building efficient, secure, and scalable web applications.
+<h2>⚙️ My Tech Stack</h2>
 
-💻 I love turning ideas into functional products — from crafting clean APIs with Node.js & Express to integrating modern frontend experiences using React.
+<ul>
+  <li><strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose, REST APIs</li>
+  <li><strong>Frontend:</strong> React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS</li>
+  <li><strong>Other Tools:</strong> Git, GitHub, Postman, Render, Vercel</li>
+</ul>
 
-⚙️ My Tech Stack
+<h2>🌟 Experience</h2>
 
-Backend: Node.js, Express.js, MongoDB, Mongoose, REST APIs
+<ul>
+  <li><strong>The Dexter Technologies</strong> | Fullstack Developer | <em>July 2025 - Current</em></li>
+  <li><strong>Right Interns</strong> | Fullstack Intern | <em>April 2025 - July 2025</em></li>
+</ul>
 
-Frontend: React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+<h2>🎓 Education</h2>
+<p>
+  <strong>BS Artificial Intelligence</strong> | GCU Hyderabad | <em>2025 - 2029</em>
+</p>
 
-Other Tools: Git, GitHub, Postman, Render, Vercel
+<h2>📫 Contact Me</h2>
+<p>
+  📧 <a href="mailto:contactbasit22@gmail.com">contactbasit22@gmail.com</a><br>
+  🔗 <a href="https://www.linkedin.com/in/basit-khan2212/" target="_blank">LinkedIn Profile</a>
+</p>
 
-🌟 Experience
+<hr>
 
-The Dexter Technologies | Fullstack Developer | July, 2025-Current
-
-Right Interns | Fullstack Intern | April 2025- July,2025
-
-🎓 Education
-
-BS Artificial Intelligence | GCU Hyderabad | 2025-2029
-
-📫 Contact Me
-
-Email: contactbasit22@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/basit-khan2212/
-
-Thank you for visiting my GitHub profile. Feel free to contact me if you have any questions or collaboration ideas. Let's build something great together!
+<p align="center">
+  Thank you for visiting my GitHub profile.<br>
+  Feel free to contact me if you have any questions or collaboration ideas.<br>
+  <strong>Let's build something great together!</strong> 🚀
+</p>
