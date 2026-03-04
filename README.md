@@ -12,7 +12,7 @@
 
 <ul>
   <li><strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose, REST APIs</li>
-  <li><strong>Frontend:</strong> React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS</li>
+  <li><strong>Frontend:</strong>React-Native, React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind, Nativewind</li>
   <li><strong>Other Tools:</strong> Git, GitHub, Postman, Render, Vercel</li>
 </ul>
 
