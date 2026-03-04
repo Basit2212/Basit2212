@@ -19,7 +19,7 @@
 <h2>🌟 Experience</h2>
 
 <ul>
-  <li><strong>The Dexter Technologies</strong> | Fullstack Developer | <em>July 2025 - Current</em></li>
+  <li><strong>The Dexter Technologies</strong> | Fullstack Developer | <em>July 2025 - November 2025</em></li>
   <li><strong>Right Interns</strong> | Fullstack Intern | <em>April 2025 - July 2025</em></li>
 </ul>
 
