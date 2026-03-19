@@ -2,10 +2,10 @@
 
 <h2>About Me</h2>
 <p>
-  Hey there! I'm <strong>Basit</strong>, a <strong>self-taught Full-Stack Developer</strong> with a strong focus on backend development  passionate about building efficient, secure, and scalable web applications.
+  Hey there! I'm <strong>Basit</strong>, a <strong>self-taught Full-Stack Developer</strong> with a strong focus on backend development  passionate about building efficient, secure, and scalable web applications & mobile applications.
 </p>
 <p>
-  I love turning ideas into functional products  from crafting clean APIs with <strong>Node.js & Express</strong> to integrating modern frontend experiences using <strong>React</strong>.
+  I love turning ideas into functional products  from crafting clean APIs with <strong>Node.js & Express</strong> to integrating modern frontend experiences using <strong>React</strong> & <strong>React-Native</strong>.
 </p>
 
 <h2>My Tech Stack</h2>
@@ -19,7 +19,9 @@
 <h2>Experience</h2>
 
 <ul>
-  <li><strong>The Dexter Technologies</strong> | Fullstack Developer | <em>July 2025 - November 2025</em></li>
+  <li><strong>eZec Productions</strong> | Fullstack Developer | <em>March 2026 - Ongoing</em></li>
+  <li><strong>Aptech Learning</strong> | Fullstack Developer Instructor | <em>Janurary 2026 - Feburary 2026</em></li>
+  <li><strong>The Dexter Technologies</strong> | Fullstack Developer Intern | <em>July 2025 - November 2025</em></li>
   <li><strong>Right Interns</strong> | Fullstack Intern | <em>April 2025 - July 2025</em></li>
 </ul>
 
