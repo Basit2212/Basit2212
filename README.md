@@ -20,7 +20,7 @@
 
 <ul>
   <li><strong>eZec Productions</strong> | Fullstack Developer | <em>March 2026 - Ongoing</em></li>
-  <li><strong>Aptech Learning</strong> | Fullstack Developer Instructor | <em>Janurary 2026 - Feburary 2026</em></li>
+  <li><strong>Aptech Learning</strong> | Fullstack Developer Instructor | <em>Janurary 2026 - March 2026</em></li>
   <li><strong>The Dexter Technologies</strong> | Fullstack Developer Intern | <em>July 2025 - November 2025</em></li>
   <li><strong>Right Interns</strong> | Fullstack Intern | <em>April 2025 - July 2025</em></li>
 </ul>
